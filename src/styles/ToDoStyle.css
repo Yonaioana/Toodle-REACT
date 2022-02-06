@@ -1,0 +1,19 @@
+.toDoBackground {
+    margin-left: 70px;
+float:left;    width: 30%;
+    height: 890px;
+    color: black;
+    background-color:transparent;
+}
+h5 {
+    margin-top: 10px;
+    margin-left: 45%;
+}
+button {
+    width: 30px;
+    height: 30px;
+}
+::-webkit-scrollbar {
+    width: 0px;
+   
+}

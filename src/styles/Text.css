@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:900i&display=swap');
+.coolStyle {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 45px;
+    margin: 100px 100px 10px 250px;
+    letter-spacing: 0.1em;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    text-shadow: 5px 5px yellow, 12px 12px #000000;
+    display: inline-flex
+}
+.coolRegister {
+    position: absolute;
+    text-align: center;
+    top: 60px;
+    left: 50%;
+    font-family: 'Montserrat', sans-serif;
+    transform: translate(-50%, -50%);
+    font-size: 45px;
+    letter-spacing: 0.1em;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    text-shadow: 10px 10px yellow, 12px 12px #000000;
+}
